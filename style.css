@@ -474,5 +474,16 @@ width: 100%;
   footer {
     padding: 1rem;
   }
+  .about .row .about-img img,
+  .menu1 .row .imgmenu img,
+  .menu1 .row1 .imgmenu2 img,
+  .menu1 .row2 .imgmenu3 img,
+  .menu1 .row3 .imgmenu4 img,
+  .menu1 .row4 .imgmenu5 img {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 1rem;
+    display: block;
+  }
 }
 
